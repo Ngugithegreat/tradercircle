@@ -1,0 +1,9 @@
+export const BRAND_NAME = (process.env.NEXT_PUBLIC_BRAND_NAME || "TraderCircle").trim();
+export const BRAND_TAGLINE = "Trade together, win together";
+export const LOGO_FROM = "#34D399";
+export const LOGO_TO = "#059669";
+export const BRAND_HEX = "#10B981";
+export const BRAND_HEX_LIGHT = "#34D399";
+export const BRAND_HEX_DARK = "#059669";
+export const BRAND_RGB = "16,185,129";
+export const IS_ALT_BRAND = false;
